@@ -46,5 +46,5 @@
 
 ### 视频演示（有语音）
 
-[https://raw.githubusercontent.com/zhangtianhong-1998/my_information/master/img/voice.mp4](https://github.com/zhangtianhong-1998/my_information/issues/1#issue-3413302232)
+https://github.com/user-attachments/assets/6895b3aa-1b88-411e-b12a-0396287a66b1
 
