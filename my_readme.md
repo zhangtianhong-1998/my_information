@@ -46,5 +46,5 @@
 
 ### 视频演示（有语音）
 
-<video src="./img/voice.mp4" controls width="600"></video>
+https://raw.githubusercontent.com/zhangtianhong-1998/my_information/master/img/voice.mp4
 
